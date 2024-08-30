@@ -3,7 +3,7 @@ django + celery + redis
 ## build and run
 <code>docker compose up</code>
 ## localhost:8000/
-downloaded cats
+download cats
 ## localhost:5555
 flower - monitoring celery workers
 ## localhost:8000/admin
