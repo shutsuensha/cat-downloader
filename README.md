@@ -1,5 +1,7 @@
 # cat-downloader
 django + celery + redis
+# build and run
+<code>docker compose up</code>
 # localhost:8000/
 downloaded cats
 # localhost:5555
