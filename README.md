@@ -1,5 +1,5 @@
 # cat-downloader
-django + celery + redis
+django + celery[beats, flower] + redis
 ## build and run
 <code>docker compose up</code>
 ## localhost:8000/
